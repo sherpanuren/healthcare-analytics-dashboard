@@ -25,7 +25,7 @@ The final dashboard enables healthcare professionals and analysts to explore:
 
 The dashboard consists of multiple key insight sections derived directly from the dataset:
 
-### ** Key Metrics**
+### Key Metrics
 
 * **Total Patients:** 1500
 * **Male Patients:** 753
@@ -37,7 +37,7 @@ These KPIs provide a quick snapshot of demographic distribution and behavioral i
 
 ---
 
-### ** Patient Distribution by Ethnicity**
+### Patient Distribution by Ethnicity
 
 A horizontal bar chart displays patient counts across major ethnic groups:
 
@@ -50,7 +50,7 @@ This helps identify demographic representation and potential disparities in OCD 
 
 ---
 
-### ** Gender Distribution**
+### Gender Distribution
 
 A donut chart comparing:
 
@@ -61,7 +61,7 @@ Gender distribution is almost perfectly balanced, providing unbiased analysis po
 
 ---
 
-### ** Obsession Type Analysis**
+### Obsession Type Analysis
 
 Includes:
 
@@ -72,7 +72,7 @@ This section helps identify which obsession categories show higher symptom sever
 
 ---
 
-### ** Compulsion Type Analysis**
+### Compulsion Type Analysis
 
 A bar chart showing patient count for:
 
@@ -86,7 +86,7 @@ Along with a slicer to explore details by compulsion category.
 
 ---
 
-### **Ethnicity Slicer**
+### Ethnicity Slicer
 
 An interactive tile-style slicer enabling quick filtering of visuals for:
 
@@ -97,7 +97,7 @@ An interactive tile-style slicer enabling quick filtering of visuals for:
 
 ---
 
-### ** Yearly Patient Trend (2014–2023)**
+### Yearly Patient Trend (2014–2023)
 
 A continuous line visualization representing yearly patient count trends.
 
@@ -168,7 +168,7 @@ This dashboard uses the following public dataset:
 
 ---
 
-## 📬 Contact
+## Contact
 
 
 **Nuren Sherpa**
