@@ -139,7 +139,7 @@ The cleaned SQL tables were then loaded into Power BI for modeling and visualiza
 This dashboard uses the following public dataset:
 
 **OCD Patient Dataset — Demographics & Clinical Data**
-🔗 [https://www.kaggle.com/datasets/ohinhaque/ocd-patient-dataset-demographics-and-clinical-data/](https://www.kaggle.com/datasets/ohinhaque/ocd-patient-dataset-demographics-and-clinical-data/)](https://www.kaggle.com/datasets/ohinhaque/ocd-patient-dataset-demographics-and-clinical-data/)
+🔗 (https://www.kaggle.com/datasets/ohinhaque/ocd-patient-dataset-demographics-and-clinical-data/)]
 
 ---
 
