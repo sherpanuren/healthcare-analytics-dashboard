@@ -19,6 +19,8 @@ The final dashboard enables healthcare professionals and analysts to explore:
 * Long-term patient trends
 * Count-based KPIs used in clinical decision-making
 
+  ![Screenshot](image/Dashboard.png)
+
 ---
 
 ## Dashboard Overview
