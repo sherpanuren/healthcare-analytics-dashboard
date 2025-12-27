@@ -2,6 +2,8 @@
 
 This project presents an interactive **Health Analytics Dashboard** built in **Power BI**, where I analyze key demographic, behavioral, and clinical patterns of patients using structured SQL-prepared data. The dashboard provides a comprehensive view of **patient counts**, **obsession and compulsion types**, **gender distribution**, **ethnicity breakdowns**, and **yearly patient trends**.
 
+  ![Screenshot](image/Dashboard.png)
+  
 ---
 
 ## Project Summary
@@ -18,8 +20,6 @@ The final dashboard enables healthcare professionals and analysts to explore:
 * Obsession & compulsion behavior patterns
 * Long-term patient trends
 * Count-based KPIs used in clinical decision-making
-
-  ![Screenshot](image/Dashboard.png)
 
 ---
 
